@@ -16,4 +16,8 @@ public class TallyCounter {
         counter++;
         return counter;
     }
+    public int getCounter(){
+
+        return counter;
+    }
 }
