@@ -13,6 +13,8 @@ public class Stapler {
     public void staple(){
          if(staples > 0){
             staples--;
+         }else{
+             System.out.println("No more staples left! Please refill.");
          }
     }
 

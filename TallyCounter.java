@@ -10,10 +10,9 @@ public class TallyCounter {
     }
 
     //methods
-    public int counterAdd()
+    public void counterAdd()
     {
-        counter++;
-        return counter;
+        counter ++;
     }
     public int getCounter(){
 

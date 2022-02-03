@@ -37,4 +37,8 @@ public class CombinationLock {
     public void lock(){
         isOpen = false;
     }
+
+    public boolean isLockOpen(){
+        return isOpen;
+    }
 }
