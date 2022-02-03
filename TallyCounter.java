@@ -1,4 +1,3 @@
-package OfficeSupplies;
 
 public class TallyCounter {
     //fields
